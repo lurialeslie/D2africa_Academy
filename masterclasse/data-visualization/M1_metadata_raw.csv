@@ -1,0 +1,25 @@
+﻿id,year,month,day,month_colour,Institute,Address
+Stm1,2015,May,29,1F85DE,Institute 1,Accra
+Stm2,2015,May,22,1F85DE,Institute 2,Yaoundé
+Stm3,2015,April,22,1fde85,Institute 3,Lomé
+Stm4,2015,March,13,826a56,Institute 1,Abuja
+Stm5,2015,June,11,dceba3,Institute 4,Abuja
+Stm6,2015,March,29,826a56,Institute 2,Pretoria
+Stm7,2015,June,23,dceba3,Institute 1,Pretoria
+Stm8,2015,September,10,6cde62,Institute 6,Johannesburg
+Stm9,2015,July,28,de761f,Institute 5,Douala
+Stm10,2015,October,8,3591a7,Institute 6,Ebolowa
+Stm11,2015,July,15,de761f,Institute 5,Kiye-Ossi
+Stm12,2015,July,12,de761f,Institute 5,Ambam
+Stm13,2015,May,1,1F85DE,Institute 3,Bitam
+Stm14,2015,April,14,1fde85,Institute 3,Abuja
+Stm15,2015,March,29,826a56,Institute 1,Yaoundé
+Stm16,2015,April,25,1fde85,Institute 3,Pretoria
+Stm17,2015,January,22,821d6e,Institute 6,Dschang
+Stm18,2015,July,7,de761f,Institute 5,Dschang
+Stm19,2015,July,14,de761f,Institute 4,Dschang
+Stm20,2015,July,6,de761f,Institute 5,Yaoundé
+Stm21,2015,July,20,de761f,Institute 5,Yaoundé
+Stm22,2015,June,20,dceba3,Institute 4,Yaoundé
+Stm23,2015,June,16,dceba3,Institute 4,Douala
+Stm24,2015,June,11,dceba3,Institute 4,Abuja
