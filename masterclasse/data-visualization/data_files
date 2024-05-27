@@ -2,6 +2,6 @@ The data files used in this Masterclasse are below
 
 M1_metadata_raw.csv masterclasse/data-visualization/M1_metadata_raw.csv
 
-M1_resistance_data.csv 
+M1_resistance_data.csv masterclasse/data-visualization/M1_resistance_data.csv
 
 M1_tree.nwk
